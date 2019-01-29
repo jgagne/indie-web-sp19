@@ -63,7 +63,7 @@
 ### Courses
 
 - [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about)
-- [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
+- [Marksheet](https://marksheet.io) — A free HTML & CSS tutorial
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com)
 - [Learn CSS Layout](http://learnlayout.com)
 
