@@ -1,7 +1,7 @@
 # Indie Web
 
 - Monday, 6:30pm, H305
-- Class Workspace: [Slack](https://indie-web-sp19.slack.com/) — Where Work Happens™
+- Class Workspace: [Slack](https://indie-web-sp19.slack.com) — Where Work Happens™
 - Instructor: Justin Gagne
 - Email: `justin.gagne@montserrat.edu`
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
