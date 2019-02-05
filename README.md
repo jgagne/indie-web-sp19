@@ -98,6 +98,10 @@
 - [HTML Symbols, Entities, Characters and Codes](https://htmlarrows.com)
 - [Charcod.es](https://charcod.es)
 
+### Title Capitalization
+
+- [TitleCap](http://titlecapitalization.com) Automatically Capitalize Your Title
+
 
 ## Tools
 
