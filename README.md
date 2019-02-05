@@ -18,25 +18,50 @@
 
 12 weekly meetings.
 
-- [Week 1](#week-1), January 28
-- Week 2, February 4
-- Week 3, February 11
+1. [Week 1](#week-1), January 28
+2. [Week 2](#week-2), February 4
+3. Week 3, February 11
   - **No Class** — February 18 (Presidents Day)
-- Week 4, February 25
-- Week 5, March 4
+4. Week 4, February 25
+5. Week 5, March 4
   - **No Class** — March 11 (Spring Break)
-- Week 6, March 18
-- Week 7, March 25
-- Week 8, April 1
-- Week 9, April 8
+6. Week 6, March 18
+7. Week 7, March 25
+8. Week 8, April 1
+9. Week 9, April 8
   - **No Class** — April 15 (Patriots' Day)
-- Week 10, April 22
-- Week 11, April 29
-- Week 12, May 6
+10. Week 10, April 22
+11. Week 11, April 29
+12. Week 12, May 6
 
 ### Week 1
 
 - Sync, sit back, and seek — discuss learning paths, goals, and outcomes.
+
+### Week 2
+
+- Hello, HTML & CSS!
+
+#### Hot Links
+
+- [CSS: From Zero to Hero](https://dev.to/aspittel/css-from-zero-to-hero-3o16) — A brilliant primer on CSS
+- [CSS Reference](https://cssreference.io) — A free visual guide to CSS
+
+
+## Projects
+
+### Resume, Résumé
+
+#### Consideration
+
+- [Résumés](https://practicaltypography.com/resumes.html) — Butterick’s Practical Typography
+- [Forget the resume, kill on the cover letter](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter)
+- [The Worst Portfolio Ever](https://www.alexcornell.com/the-worst-portfolio-ever/)
+
+#### Résumés
+
+- [Nick Sherman](http://nicksherman.com)
+- [Jason Zimdars, Design](http://jasonzimdars.com/svn/) — Oldie, but goodie
 
 
 ## Readings
