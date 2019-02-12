@@ -62,6 +62,7 @@
 
 - [Nick Sherman](http://nicksherman.com)
 - [Jason Zimdars, Design](http://jasonzimdars.com/svn/) — Oldie, but goodie
+- [Designers, Free Résumé Templates To Have You Tip-Top Ready For A Career Boost](https://designtaxi.com/news/403386/Designers-Free-R-sum-Templates-To-Have-You-Tip-Top-Ready-For-A-Career-Boost/)
 
 
 ## Readings
