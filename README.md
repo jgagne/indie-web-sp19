@@ -16,23 +16,23 @@
 
 ## Schedule
 
-12 weekly meetings.
+13 weekly meetings.
 
 1. [Week 1](#week-1), January 28
 2. [Week 2](#week-2), February 4
 3. Week 3, February 11
-  - **No Class** — February 18 (Presidents Day)
-4. Week 4, February 25
-5. Week 5, March 4
+4. Week 4, February 18 (Presidents Day)
+5. Week 5, February 25
+6. Week 6, March 4
   - **No Class** — March 11 (Spring Break)
-6. Week 6, March 18
-7. Week 7, March 25
-8. Week 8, April 1
-9. Week 9, April 8
+7. Week 7, March 18
+8. Week 8, March 25
+9. Week 9, April 1
+10. Week 10, April 8
   - **No Class** — April 15 (Patriots' Day)
-10. Week 10, April 22
-11. Week 11, April 29
-12. Week 12, May 6
+11. Week 11, April 22
+12. Week 13, April 29
+13. Week 13, May 6
 
 ### Week 1
 
