@@ -60,6 +60,7 @@
 
 #### Résumés
 
+- [Bethany Heck](https://heckhouse.com)
 - [Coty Beasley](https://coty.design/#/intro)
 - [Nick Sherman](http://nicksherman.com)
 - [Jason Zimdars, Design](http://jasonzimdars.com/svn/) — Oldie, but goodie
