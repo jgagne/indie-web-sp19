@@ -71,6 +71,7 @@
 
 #### Résumés
 
+- [Eric Bailey](https://ericwbailey.design/) — Alum
 - [Bethany Heck](https://heckhouse.com)
 - [Coty Beasley](https://coty.design/#/intro)
 - [Nick Sherman](http://nicksherman.com)
