@@ -27,7 +27,7 @@
   - **No Class** — March 11 (Spring Break)
 7. Week 7, March 18
 8. Week 8, March 25
-9. Week 9, April 1
+9. [Week 9](#week-9), April 1
 10. Week 10, April 8
   - **No Class** — April 15 (Patriots' Day)
 11. Week 11, April 22
@@ -47,6 +47,17 @@
 - [CSS: From Zero to Hero](https://dev.to/aspittel/css-from-zero-to-hero-3o16) — A brilliant primer on CSS
 - [CSS Reference](https://cssreference.io) — A free visual guide to CSS
 
+### Week 9
+
+#### Watch Me
+
+- [Fit For Purpose: Making Sense of the New CSS](https://aneventapart.com/news/post/fit-for-purpose-making-sense-of-the-new-css-by-eric-meyer)
+- [Web Typography & Layout: Past, Present, and Future](https://alistapart.com/event/web-typography-layout-past-present-future)
+
+#### Grid It
+
+- [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/)
+- [Grid CSS Reference](https://cssreference.io/css-grid/)
 
 ## Projects
 
