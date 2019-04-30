@@ -71,6 +71,7 @@
 
 #### Résumés
 
+- [Building a dependency-free site in 2019](https://css-irl.info/building-a-dependency-free-site/)
 - [Eric Bailey](https://ericwbailey.design/) — Alum
 - [Bethany Heck](https://heckhouse.com)
 - [Coty Beasley](https://coty.design/#/intro)
