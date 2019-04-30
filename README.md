@@ -31,7 +31,7 @@
 10. Week 10, April 8
   - **No Class** — April 15 (Patriots' Day)
 11. Week 11, April 22
-12. Week 13, April 29
+12. Week 12, April 29
 13. Week 13, May 6
 
 ### Week 1
